@@ -1,0 +1,8 @@
+{
+  "name": "@dabrowskif/lru",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
